@@ -9,6 +9,7 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 ### Frameworks and Platforms
 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Arachne](https://github.com/Strategic-Automation/arachne) - DSPy-native autonomous agent runtime with graph weaving, parallel wave execution, triangulated evaluation, and self-healing.
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
